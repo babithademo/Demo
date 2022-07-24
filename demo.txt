@@ -1,5 +1,5 @@
 This is a demo file for git
 steps
-sudo apt install git
-git --version
+1.sudo apt install git
+2.git --version
 
