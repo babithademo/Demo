@@ -1,5 +1,8 @@
 This is a demo file for git
 steps
-1.sudo apt install git
-2.git --version
+sudo apt install git
+git --version
+git config --global user.name "Lubos Rendek"
+git config --global user.email "web@linuxconfig.org"
+git config --list
 
