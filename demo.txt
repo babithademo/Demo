@@ -11,3 +11,6 @@ create repository
 In Terminal mkdir "directory name"
 cd "directory name"
 git init
+git add .
+git commit -m "commit message"
+git push 
