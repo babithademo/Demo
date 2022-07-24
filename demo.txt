@@ -10,4 +10,4 @@ sign in
 create repository
 In Terminal mkdir "directory name"
 cd "directory name"
-
+git init
