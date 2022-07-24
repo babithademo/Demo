@@ -8,3 +8,6 @@ git config --list
 Go to browser - github.com
 sign in
 create repository
+In Terminal mkdir "directory name"
+cd "directory name"
+
