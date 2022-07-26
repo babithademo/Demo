@@ -1,5 +1,5 @@
 This is a demo file for git
-Steps
+Steps:
 sudo apt install git
 git --version
 git config --global user.name "Lubos Rendek"
