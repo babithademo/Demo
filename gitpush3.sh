@@ -12,5 +12,5 @@ git commit -m "committed"
 for i in "${!map[@]}"
 do
            git remote add $i git@github.com:babithademo/${map[$i]}.git
-           git push -u $i master
+           git push -u $i 
 done          
