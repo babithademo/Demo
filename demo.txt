@@ -1,5 +1,5 @@
 This is a demo file for git
-steps
+Steps
 sudo apt install git
 git --version
 git config --global user.name "Lubos Rendek"
@@ -13,4 +13,4 @@ cd "directory name"
 git init
 git add .
 git commit -m "commit message"
-git push 
+git push -u origin master
