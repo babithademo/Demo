@@ -1,0 +1,16 @@
+This is a demo file for git
+Steps:
+sudo apt install git
+git --version
+git config --global user.name "Lubos Rendek"
+git config --global user.email "web@linuxconfig.org"
+git config --list
+Go to browser - github.com
+sign in
+create repository
+In Terminal mkdir "directory name"
+cd "directory name"
+git init
+git add .
+git commit -m "commit message"
+git push -u origin master
